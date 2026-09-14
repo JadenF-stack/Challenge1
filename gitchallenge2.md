@@ -1,1 +1,1 @@
-this is new line this is a beter change
+This line was added on logfolder instead
